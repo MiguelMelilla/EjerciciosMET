@@ -1,2 +1,4 @@
 rise==5.7.1
 Psychrolib==2.5.0
+ipywidgets
+jupyter_contrib_nbextensions
