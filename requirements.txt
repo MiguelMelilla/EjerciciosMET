@@ -1,2 +1,2 @@
-pip install rise
-pip install psychorlib
+rise
+psychorlib
