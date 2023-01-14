@@ -3,6 +3,4 @@ Psychrolib==2.5.0
 ipywidgets
 jupyter_contrib_nbextensions
 hide_code
-jupyter nbextension install --py hide_code
-jupyter nbextension enable --py hide_code
-jupyter serverextension enable --py hide_code
+
