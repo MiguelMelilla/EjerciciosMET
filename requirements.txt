@@ -1,6 +1,6 @@
 rise==5.7.1
 Psychrolib==2.5.0
 ipywidgets
-jupyter_contrib_nbextensions
 hide_code
-
+jupyter==1.0.0
+jupyter-contrib-nbextensions==0.5.0
